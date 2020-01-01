@@ -5,3 +5,12 @@
 
 코드 통합 및 내부프레임 방식으로 전체 구조를 설계하고 4개의 메뉴 중 게시판 메뉴를 구현, 공지사항 기능을 구현하였습니다.
 
+![게시판 사진](./images/board.jpg)
+
+![게시글 추가 사진](./images/post.jpg)
+
+![댓글 작성 사진](./images/comment.jpg)
+
+![공지글 작성 사진](./images/notice.jpg)
+
+![공지 확인 사진](./images/notice_list.jpg)
