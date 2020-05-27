@@ -13,6 +13,11 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
+import com.dao.BoardDAO;
+import com.dao.GradeSystemDAO;
+import com.notice.NoticeInsert;
+import com.notice.NoticeSelect;
+
 import Panels.BoardPanel;
 import Panels.MyInfoPanel;
 import Panels.QuizPanel;

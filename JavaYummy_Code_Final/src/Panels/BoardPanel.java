@@ -10,12 +10,12 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
-import com.BoardDAO;
-import com.BoardDelete;
-import com.BoardInsert;
-import com.BoardSelect;
-import com.BoardUpdate;
 import com.Main;
+import com.board.BoardDelete;
+import com.board.BoardInsert;
+import com.board.BoardSelect;
+import com.board.BoardUpdate;
+import com.dao.BoardDAO;
 
 import VOs.BoardVO;
 import java.awt.event.MouseAdapter;

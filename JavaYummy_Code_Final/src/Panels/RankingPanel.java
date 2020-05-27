@@ -7,8 +7,8 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
-import com.GradeSystemDAO;
 import com.Main;
+import com.dao.GradeSystemDAO;
 
 public class RankingPanel extends JPanel {
 	public JPanel rankingPanel = new JPanel();

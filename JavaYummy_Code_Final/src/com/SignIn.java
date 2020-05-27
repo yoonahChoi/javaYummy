@@ -11,6 +11,8 @@ import javax.swing.JTextField;
 import javax.swing.UIManager;
 import javax.swing.plaf.ColorUIResource;
 
+import com.dao.GradeSystemDAO;
+
 public class SignIn {
 
 	private JFrame frame;

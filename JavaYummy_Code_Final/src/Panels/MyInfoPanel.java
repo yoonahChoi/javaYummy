@@ -11,10 +11,10 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.SwingConstants;
 
-import com.GradeSystemDAO;
 import com.Login;
 import com.Main;
 import com.myCalendar;
+import com.dao.GradeSystemDAO;
 
 import VOs.AttVO;
 import VOs.MemberVO;
